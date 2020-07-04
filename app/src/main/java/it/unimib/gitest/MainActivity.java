@@ -4,6 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * MainActivity
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     // A comment from test branch
